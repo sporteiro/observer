@@ -1,0 +1,170 @@
+﻿Playlists Menu
+
+  Playlists: Lista de reproducción
+  New: Nueva lista de reproducción
+
+Playlist New
+
+  Heading: Nueva lista de reproducción
+  Instructions: Complete la información sobre la lista de reproducción. Arrastre media y listas de reproducción al área inferior.
+
+Playlist Edit
+
+  Heading: Editar lista de reproducción
+  Edit Playlist: Editar lista de reproducción
+  Instructions: Editar la siguiente lista de reproducción.
+
+  Select One Playlist Only: Seleccione solo una lista de reproducción.
+
+  Form Heading: Información sobre lista de reproducción
+  Name: Nombre
+  Description: Descripción
+  Status: Estado
+  Type: Tipo
+  Notes: Notas
+
+  Private Option: Privada (disponible solo para usted)
+  Public Option: Pública (disponible para todos)
+
+  Standard Option: Standard
+  Advanced Option: Avanzado
+  LiveAssist Option: Manual
+
+  Items Heading: Elementos de la lista de reproducción
+  Items Instructions Advanced: Doble click para introducir las propiedades. Un click para elegir el elemento, suprimir / retroceso para eliminar, flecha arriba / abajo para moverse.
+  Items Instructions Standard: Doble click para introducir las propiedades. Un click para elegir el elemento, suprimir / retroceso para eliminar, flecha arriba / abajo para moverse. También puede arrastrar para ordenar.
+
+  Zoom In: Acercar
+  Zoom Out: Alejar
+
+  Drag Items Here: Arrastre elementos aqui para crear una lista de reproducción
+
+  Add Dynamic Selection Button: Selección dinámica
+  Add Station ID Button: ID de estación
+  Add Breakpoint Button: Punto de ruptura
+  Clear All Button: Limpiar todo
+
+  Dynamic Selection: Selección dinámica
+  Dynamic Selection Last Search Notice: La selección dinámica agrega a la lista de reproducción los resultados de la ultima búsqueda realizada.
+
+  Advanced Playlist Dynamic Selection Not Supported: Las selecciones dinámicas y los ID de Estación no estan soportados para la lista de reproducción avanzada. Esos elementos han sido ignorados.
+
+  Breakpoint: - - Punto de ruptura - -
+
+  Station ID: ID de Estación
+
+  Total Duration: Duración total
+  Total Duration Estimated: (duración total estimada)
+
+  LiveAssist Buttons Heading: Contenido Adicional (Se utilizará en caso de interrupción)
+  LiveAssist Buttons Instructions: Arrastre listas de reproducción a este área. Estas listas se usarán como relleno en caso de que desee interrumpir una emisión Manual. Cada lista de reproducción será una columna de botones, con un botón por cada elemento de la lista de reproducción.
+
+  Clear Items Confirm: ¿Desea limpiar todos los elementos de la lista de reproducción?
+  Change Playlist Type Confirm: Modificar el tipo de lista de reproducción limpiara la lista de reproducción. ¿Desea realizar esta acción?
+
+  Clear LiveAssist Items Confirm: ¿Desea limpiar todos los botones de reproducción manual?
+
+  Unable To Edit: No es posible editar esta lista de reproducción.
+  Name Required: El nombre de la lista de reproducción es obligatorio.
+  Valid Status Required: Un estado válido es obligatorio.
+  Valid Type Required: Un tipo válido es obligatorio.
+
+  Item Not Valid: Uno o mas elementos de la lista de reproducción no es válido.
+  Durations Not Valid: La duración de uno o más medias es cero o inválida.
+  Approved Media Required: Solo medias aprobados y sin archivar pueden ser usados en la lista de reproducción.
+  Cannot Use Private Item: Un elemento media esta marcado como privado. Solo puede ser usado en una lista de reproducción creada por el mismo propietario.
+  Dynamic Item Not Valid: Uno o mas elementos de la lista de reproducción dinámica no son válidos.
+
+  LiveAssist Item Not Valid: Uno o mas elementos de la lista de reproducción Manual no son válidos.
+
+  Error While Saving: Ha ocurrido un error guardando ésta lista de reproducción.
+
+Playlist Details
+
+  Playlist not found: Lista de reproducción no encontrada.
+
+  Playlist Details: Información de lista de reproducción
+  Loading playlist details: Cargando información de lista de reproducción...
+
+  Items: Elementos
+  Details: Detalles
+
+  Duration: Duración
+
+  estimated: estimada
+
+  No playlist items found: Elementos de la lista de reproducción no encontrados.
+
+  ID: ID
+  Owner: Propietario
+  Created: Creado
+  Last Updated: Ultima modificación
+
+  Private: Privada
+  Public: Pública
+
+Playlist Where Used
+
+  Where is this playlist used?: ¿Dónde se usa esta lista de reproducción?
+  Playlist is not in use: lista de reproducción no esta en uso.
+
+  schedule: planificación de reproductor
+  recurring schedule: planificación de reproductor periodica
+  default playlist: lista de reproducción de reproductor predeterminada
+  liveassist buttons: botones de lista de reproducción Manual
+
+Playlist Delete
+
+  Delete Playlists: Eliminar lista de reproducción
+  Are You Sure: ¿Desea eliminar la siguiente lista de reproducción?
+  Item will be removed from: Elementos seran eliminados de
+  No Permission: La siguiente lista de reproducción no será eliminada, ya que no dispone de los permisos adecuados.
+  Playlists have been deleted: Lista de reproducción eliminada.
+
+Playlist Audio Properties
+
+  Heading: Propiedades de audio
+  Instructions: No hay propiedades disponibles para seleccionar en las pistas de audio.
+
+Playlist Breakpoint Properties
+
+  Heading: Propiedades de punto de ruptura
+  Instructions: No hay propiedades disponibles para seleccionar en el punto de ruptura.
+
+Playlist Dynamic Item Properties
+
+  Heading: Propiedades de elemento dinámico
+  Selection Name: Nombre de selección
+  Number Of Items: Numero de elementos
+  All Items: Todos
+  Image Duration: Duración de imagen
+  In Seconds: segundos
+
+  Description Heading: Descripción
+
+  Type: Tipo
+  Advanced Search Type: Búsqueda avanzada
+  All Media Search Type: Todos los Media
+  Standard Search Type: Búsqueda (artista o título)
+
+  Number Of Items Invalid: Numero de elementos inválido.
+  Image Duration Invalid: Duración de imagen inválida.
+  Invalid Search Criteria: Criterio de búsqueda inválido.
+
+Playlist Image Properties
+
+  Heading: Propiedades de imagen
+  Image Duration: Duración de imagen
+  seconds: segundos
+
+  Valid Image Duration Required: Duración de imagen válida obligatoria.
+
+Playlist Station ID Properties
+
+  Heading: Propiedades de ID de Estación
+  Instructions: No hay propiedades disponibles para seleccionar para ID de Estación.
+
+Playlist Video Properties
+
+  Heading: Propiedades de video
+  Instructions: No hay propiedades disponibles para seleccionar para videos.

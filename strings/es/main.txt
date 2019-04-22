@@ -1,0 +1,2 @@
+﻿Welcome
+  Welcome Message: Bienvenido a OpenBroadcaster.

@@ -1,0 +1,93 @@
+﻿Admin Menu
+
+  Device Settings: Parámetros del dispositivo
+  Device Manager: Administrador de dispositivos
+  Device Monitoring: Monitorización de dispositivos
+
+Device Manager
+
+  Heading: Administrador de dispositivos
+  New Device Button: Nuevo dispositivo
+  ID: ID
+  Name: Nombre
+  Description: Descripción
+  Status: Estado
+  Warnings: Alertas
+
+  Version: Versión
+  All: Todo
+  Schedule: Calendario
+  Emergency: Prioridad
+  Media: Media
+  Playlog: Playlog
+
+  not available: no disponible
+  never: nunca
+
+  Form Heading: Parámetros
+  Add Device Heading: Añadir nuevo dispositivo
+  Edit Device Heading: Editar dispositivo
+  Settings Name: Nombre
+  Settings Description: Descripción
+  Settings Parent Device: Dispositivo padre
+  Schedule Check: Calendario de comprobación
+  Dynamic Check: Comprobación dinámica
+  ID Check: Utilizar ID de estación de padre
+  Playlist Check: Comprobación lista de reproducción predeterminada
+  Emergency Check: Utilizar comprobación de emisiones prioritarias
+
+  IP Address: Dirección IP
+  Password: Contraseña
+  Enter New Password: Introduzca nueva contraseña para reiniciar
+  Timezone: Huso horario
+  Default Playlist: Lista de reproducción predeterminada
+  Playlist Drag Zone: Arrastre Lista de reproducción aqui
+  Media Drag Zone: Arrastre media aqui
+  Station IDs: ID de estación
+  Station ID Image Duration: Duración de ID de estación
+  seconds: segundos
+  Media Types: Media soportados
+  Dynamic Selections Only: Solo afecta a selecciones dinamicas
+  Audio: Audio
+  Images: Imagenes
+  Video: Video
+  Line-In: Linea de entrada
+
+  None: Ninguno
+
+  Device List Must Load: La lista de dispositivos debe cargar antes de crear un nuevo dispositivo.
+  Saved Message: Dispositivo guardado: (ID #%1)
+
+Device Monitoring
+
+  Heading: Monitorización de dispositivos
+  Limited Message: Los resultados se limitan a 1000 lineas.
+  Options: Opciones
+  Device: Dispositivo
+  Start: Comienzo
+  End: Fin
+  Sort: Ordenar por
+
+  Media ID: ID de media
+  Artist: Artista
+  Title: Título
+  Date/Time: Fecha / Hora
+  Context: Contexto
+  Notes: Notas
+
+  Ascending: Ascendente
+  Descending: Descendente
+
+  Filters: Filtros
+  Filter: Filtro
+
+  Exactly: es
+  Not: no es
+  Contains: contiene
+  Not Contain: no contiene
+
+  Add Filter Button: Agregar filtro
+  Load Data Button: Cargar datos
+
+  Results: Resultados
+  No Results Message: Ningún resultado de búsqueda.

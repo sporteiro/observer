@@ -1,0 +1,187 @@
+﻿Media Menu
+
+  Media: Media
+  Upload: Subir media
+
+Admin Menu
+
+  Media Settings: Opciones de media
+  Media Categories: Categorías y Géneros
+
+Upload Media
+
+  Heading: Subir media
+  Instructions: Haga click o arrastre los archivos para subirlos. Tamaño máximo: 10GB.
+  Select Files Legend: Seleccione archivos
+  Select Files: Arrastre o haga click para seleccionar los archivos a subir.
+  File Drop Failed: No es posible obtener la información del archivo. Haga click para seleccionar un archivo diferente.
+  Upload Status: Cargando: %1%
+  ID3 Unavailable: ID3 / Información EXIF No disponible
+  Wait For Upload To Save: No es posible guardar, por favor, espere a que la carga haya finalizado.
+
+Edit Media
+
+  Heading: Editar media
+  Instructions: Edite los siguientes campos y pulse el boton guardar.
+
+Edit Media Form
+
+  ID3 Button: Usar datos ID3
+  Upload Queue: El archivo esta en la cola de subidas
+
+  Artist: Artista
+  Title: Título
+  Album: Album / Serie
+  Year: Año
+  Category: Categoría
+  Country: Pais
+  Language: Idioma
+  Genre: Género
+  Description: Descripción
+  Comments: Comentarios
+  Copyright Owner: Es propietario de los derechos
+  Media Approved: Media aprobado
+  Status: Estado
+  Dynamic Selections: Incluir en selecciones dinámicas
+  Notes: Notas
+
+  Private Option: Privado (Disponible solo para usted)
+  Public Option: Publico (Disponible para todos)
+  Not Applicable Option: No aplicable
+
+  Copy Field Button: Copiar a todos
+
+  Media Saved: Media guardado.
+
+  Media Not Found: Este elemento media ya no existe.
+  Upload Not Valid: El Archivo subido no es válido.
+  File Upload Required: Es obligatorio subir un archivo para nuevo media. Probable error al subir archivo.
+  Format Not Supported: Formato de archivo no soportado.
+  Required Fields Not Filled: Uno o mas campos obligatorios vacios.
+  Artist/Title Too Long: Uno o mas campos de artista/título es demasiado largo.
+  Year Not Valid: Año no válido.
+  Category Not Valid: La categoria seleccionada ya no es válida.
+  Country Not Valid: El pais seleccionado ya no es válido.
+  Genre Not Valid: El género seleccionado ya no es válido.
+  Language Not Valid: El idioma seleccionado ya no es válido.
+  Status Not Valid: El estado de media seleccionado ya no es válido.
+  Genre Not Valid For Category: El género eleccionado ya no es válido para la categoria elegida.
+
+Media Details
+
+  Media not found: Media no encontrado.
+
+  Media Details: Información de media
+  Loading media details: Cargando información de media...
+  Details: Detalles de media
+
+  ID: ID
+  Uploader: Cargador
+  Created: Creado
+  Last Updated: Ultima modificación
+  Copyright: Licencia
+  Approval: Estado
+  Dynamic Selections: Selecciones dinámicas
+
+  Public: Público
+  Private: Privado
+
+  Archived: Archivado
+  Approved: Aprobado
+  Not Approved: No aprobado
+
+  Where is this media used?: ¿Dónde se esta usando este media?
+  Media is not in use: Este media no está en uso.
+
+  Possible Dynamic Selection: Posible selección dinámica.
+
+Media Delete
+  Delete Media: Borrar media
+  Are You Sure: ¿Desea elimiar los siguientes elementos?
+  No Permission: El siguiente media no será eliminado, ya que no dispone de los permisos adecuados.
+  Item will be removed from: Item será eliminado de
+
+  At Least One Delete: Seleccione al menos un media para eliminar.
+  Error Fetch Media Status: Error obteniendo estado de media.
+  Media Move to Archive: Media será movido al archivo.
+  Media Deletion: Media será eliminado permanentemente.
+  Media Deleted: Media ha sido eliminado.
+
+Media Restore
+  At Least One Restore: Selecione al menos un elemento media para restaurar.
+  Restore Media: Restaurar Media
+  Are You Sure: ¿Desea restaurar los siguientes elementos media?
+  Will Be Moved: Elemento será movido a media aprobado.
+  Restore Button: Si, restaurar
+  Media Restored: Media ha sido restaurado.
+
+Media Where Used
+
+  device: ID de estación
+  playlist: lista de reproducción
+  playlist_dynamic: lista de reproducción dinamica
+  emergency: emision prioritaria
+  schedule: agenda para dispositivo
+  recurring schedule: agenda para dispositivo recurrente
+
+Media Settings
+  Heading: Categorias y géneros
+  Instructions: Haga click en el nombre de la categoría para ver sus géneros.
+  Add Category Button: Categoría
+  Add Genre Button: Género
+
+  Supported File Formats: Formatos de archivo soportados
+  File Format Instructions: Seleccione que formatos de archivo desea aceptar para subir medias.  Cambiar esta opción no afecta al media existente.
+
+  Audio Formats: Audio
+
+  FLAC Description: (Free Lossless Audio Codec)
+  MP3 Description: (MPEG-1 Layer-3 Audio)
+  MP4 Description: (MPEG-4 Audio)
+  OGG Description: (Ogg Container Format)
+  WAV Description: (Waveform Audio)
+
+  Video Formats: Video
+
+  AVI Description: (Audio Video Interleave, container format)
+  MPEG Description: (Moving Picture Experts Group)
+  WMV Description: (Windows Media Video)
+  MOV Description: (Apple Quicktime)
+  MXF Description: (Material eXchange Format)
+
+  Image Formats: Imagen
+
+  JPEG Description: (Joint Photographic Experts Group)
+  PNG Description: (Portable Network Graphics)
+  SVG Description: (Scalable Vector Graphics)
+
+  Formats Saved Message: Opciones de formato de archivo guardadas.
+
+  No Genres: Ningún género encontrado.
+
+
+Category Edit
+
+  Name: Nombre
+  Name Required Message: Nombre de categoría obligatorio.
+  Must Remove Message: Debe eliminar los géneros de esta categoría antes de eliminarla.
+  Saved Message: Categoría guardada.
+  Category Deleted Message: Categoría eliminada.
+
+  Edit Category: Editar categoría
+  New Category: Nueva categoría
+
+Genre Edit
+
+  New Genre: Nuevo género
+  Edit Genre: Editar género
+
+  Name: Nombre
+  Description: Descripción
+  Category: Categoría
+
+  Delete Genre Confirm: ¿Desea eliminar este género?
+
+  Name Required Message: Nombre de género obligatorio.
+  Genres Updated Message: Géneros actualizados.
+  Genre Deleted Message: Género eliminado.

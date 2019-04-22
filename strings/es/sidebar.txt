@@ -1,0 +1,122 @@
+﻿Advanced Search
+  Heading: Búsqueda avanzada
+  Edit Heading: Modificar búsqueda avanzada
+  Search Criteria: Critérios de búsqueda
+
+  Search Description: Descripción de búsqueda
+  Search Description Instructions: Introduzca una descripción de búsqueda en lugar del filtro (opcional).
+
+  Search Criteria Instructions: Actualmente no existen criterios de búsqueda. Utilice el formulario superior para agregarlos.
+
+  Artist: Artista
+  Album: Album
+  Title: Título
+  Year: Año
+  Media Type: Tipo
+  Category: Categoría
+  Genre: Género
+  Country: País
+  Language: Idioma
+  Name: Nombre
+  Comments: Comentarios
+  Duration: Duración (seg)
+
+  contains: contiene
+  does not contain: no contiene
+  is exactly: es exactamente
+  is not: no es
+  is: es
+  is greater than or equal to: es mayor o igual a
+  is less than or equal to: es menor o igual a
+  is greater than or equal to (seconds): mayor o igual a
+  is less than or equal to (seconds): menor o igual a
+
+My Searches
+  My Searches: Mis búsquedas
+  Instructions: Click para buscar de nuevo. Click derecho para más opciones.
+  Heading: Búsquedas guardadas
+  Search History Heading: Historial de búsquedas
+  No Searches: Búsqueda no encontrada.
+
+  Make Default: Por defecto
+  Unset Default: Deshacer por defecto
+
+Sidebar
+  Enter Search Query: Introduzca su consulta
+  Advanced Search Query: Introduzca su consulta (modo avanzado)
+
+  Media Player: Reproductor Multimedia
+  Media: Medias
+  Playlists: Listas
+  advanced: avanzado
+  simple: simple
+  my searches: mis búsquedas
+
+  My Filter Link: ma
+  Approved Filter Link: ap
+  Unapproved Filter Link: un
+  Archived Filter Link: ar
+
+  Video Search Symbol: v
+  Image Search Symbol: i
+  Audio Search Symbol: a
+
+	Artist: Artista
+ 	Album/Series: Album/Serie
+	Title: Título
+	Year: Año
+	Category: Categoria
+	Genre: Género
+	Country: País
+	Language: Idioma
+	Time: Tiempo
+	Duration: Duración
+	Name: Nombre
+	Description: Descripción
+
+	Status: Status
+	public: Público
+	private: Privado
+	Owner: Creado por
+
+  Loading: Cargando...
+  more: Más
+  less: Menos
+  previous: Atras
+  next: Siguiente
+
+  Media Items Found: %1 medias encontrados
+  Media Item Found: 1 media encontrado
+
+  No Media Found: Ningún media encontrado
+  No Playlists Found: Ninguna lista encontrada
+
+  Playlist Found: 1 lista encontrada
+  Playlists Found: %1 listas encontradas
+
+  At Least One Delete: Seleccione al menos un elemento multimedia para eliminar.
+  At Least One Restore: Seleccione al menos un elemento de media para restaurar.
+  Error Fetch Media Status: Error de recuperación del estado de los medias.
+  Media Move to Archive: Los siguientes medias serán archivados.
+  Media Deletion: Los siguientes medias serán eliminados.
+  Media Restored: Media restaurado.
+  Media Deleted: Media eliminado.
+
+  Item will be removed from: El elemento sera eliminado
+
+Playlist Delete
+  Delete Playlists: Eliminar lista de reproducción
+  Are You Sure: ¿Desea eliminar la lista de reproducción?
+  No Permission: Las listas de reproducción siguientes no serán eliminadas, ya que no dispone de los permisos adecuados.
+
+
+Media Delete
+  Delete Media: Eliminar medias
+  Are You Sure: ¿Desea eliminar los siguientes elementos multimedia?
+  No Permission: Los elementos siguientes no seran eliminados, ya que no dispone de los permisos adecuados.
+
+Restore Media
+  Restore Media: Restaurar medias
+  Are You Sure: ¿Desea restaurar los siguientes elementos multimedias?
+  Will Be Moved: El elemento se moverá a los medias aprobados.
+  Restore Button: Si, restaurar

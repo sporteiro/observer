@@ -1,0 +1,93 @@
+﻿Account Login
+
+  Password Incorrect: Credenciales incorrectas.
+  Heading: Conexion a la cuenta
+  Automatically Logged Out: Su sesión ha expirado. Por favor, introduzca su contraseña para continuar.
+  Username: Usuario
+  Password: Contraseña
+  Log In Button: Identificarse
+  Log In Different User Button: Conectarse con otro usuario
+
+Account Settings
+
+  Form Heading: Parámetros de la cuenta
+  Form Help: Rellenar los campos de contraseña solo si se desea cambiarla.
+
+  Account Section: Cuenta
+  Username: Usuario
+  Name: Nombre
+  Display Name: Nombre a mostrar
+  Password: Contraseña nueva
+  Password Again: Confirmar contraseña
+  Email: Correo electrónico
+
+  UI Section: Interfaz de usuario
+
+  Search Results Per Page: Resultados de busqueda por página
+
+  Language: Idioma
+
+  Theme: Tema
+  Light On Dark (Lower Contrast): Light On Dark (Lower Contrast)
+  Dark On Light (Lower Contrast): Dark On Light (Lower Contrast)
+  Light On Dark (Higher Contrast): Light On Dark (Higher Contrast)
+  Dark On Light (Higher Contrast): Dark On Light (Higher Contrast)
+  Tanzanite: Tanzanite
+
+  Dyslexia-Friendly Font: Ayuda a la dislexia
+  Enabled Option: Activado
+  Disabled Option: Desactivado
+
+  Settings Updated: Los parámetros de la cuenta han sido modificados. Reinicie la sesión para ver los cambios.
+
+  Required Fields Not Filled: Campos obligagorios no completados.
+  Email Address Invalid: La dirección de correo electrónico proporcionada no es válida.
+  Email Address In Use: La dirección de correo electrónico proporcionada ya fue registrada por otro usuario.
+  Passwords Do Not Match: Las contraseñas proporcionadas no coinciden.
+  Password Not Long Enough: La contraseña debe contener al menos 6 caracteres.
+  Language Not Valid: El idioma seleccionado no es válido.
+  Theme Not Valid: El tema seleccionado no es válido.
+
+  Keycuts Section: Atajos de teclado
+
+  Press Any Key: Pulsa una tecla. Doble click para limpiar.
+  Repeated Key: Tecla asignada más de una vez.
+
+  Cancel: Cancelar
+  Select Input: Seleccionar input
+  Save: Guardar
+  Hide Player: Ocultar reproductor
+  Toggle Tab: Cambiar pestaña del sidebar
+  Search: Ir al cuadro de búsqueda
+  Advanced Search: Búsqueda avanzada
+  Historic Search: Histórico de búsqueda
+  First Page: Ir a la primera página del sidebar
+  Previous Page: Ir a la página anterior del sidebar
+  Next Page: Ir a la página siguiente del sidebar
+  Last Page: Ir a la última página del sidebar
+  Add Item: Añadir Item
+  Edit Item: Editar Item
+  Delete Item: Eliminar Item
+  Toggle Detailed: Cambiar modo detallado del sidebar
+  Hide Sidebar: Ocultar Sidebar
+  Toggle Mode: Cambiar modo de parrilla
+  Previous Week: Semana anterior
+  Next Week: Semana siguiente
+  Current Week: Semana actual
+  Schedule Zoom In: Ampliar altura de parrilla
+  Schedule Zoom Out: Reducir altura de parrilla
+  Reset Schedule Zoom: Reiniciar altura de parrilla
+  Go To Hour: Ir a la hora
+  Go To Minute: Ir al minuto
+  Go To Second: Ir al segundo
+  Account Settings: Parámetros de la cuenta
+
+Account Menu
+
+  Account: Cuenta
+  Logout: Cerrar sesión
+  Settings: Opciones de cuenta
+
+Layout
+
+  Logged In As: Conectado como: %1

@@ -1,0 +1,8 @@
+﻿Login
+  OpenBroadcaster: Bienvenido a OpenBroadcaster
+  Welcome Message: Bienvenido a Tenerife 2030
+  Forgot Pass: ¿Olvidó la contraseña?
+  Create Account: Crear nueva cuenta.
+
+  Create Message: Introduzca su dirección de correo electrónico y se le enviará el usuario y contraseña</p>
+

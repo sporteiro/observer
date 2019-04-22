@@ -1,0 +1,17 @@
+Admin Menu
+
+  Logger Module Log: Logger
+
+Logger
+
+  Logger Heading: Logs
+  Logger Descrip: Log de control de acceso
+
+  Clear Log: Limpiar log
+  Prev: Anterior
+  Next: Siguiente
+
+  DayHour: Día / Hora
+  User: Usuario
+  Controller: Controlador
+  Action: Acción

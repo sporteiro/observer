@@ -1,0 +1,170 @@
+﻿Schedules Menu
+
+  Schedules: Parrilla
+  Shows: Parrilla televisiva
+  Permissions: Planificar permisos
+
+Schedule
+
+  Show Cannot Be Moved: Los shows seleccionados no pueden moverse.
+  Show Moved Succesfully: Shows movidos satisfactoriamente.
+
+  Show Not Found: Show no encontrado.
+  Permission Not Found: Permiso no encontrado.
+
+  Device ID Invalid: ID de dispositivo no encontrado.
+  Start Or End Date Invalid: Fecha de inicio o fin inválida.
+  User ID Invalid: ID de dispositivo inválido.
+
+  Schedule Only One: Se puede programar un solo evento al mismo tiempo.
+  No Edit Permission: No tiene permisos para modificar este elemento.
+
+  Schedule Shows Heading: Parrilla televisiva
+  Schedule Shows Instructions: Arrastrar media o lista de reproducción, doble click para modificar.
+
+  Line-In: Linea de entrada
+  Schedule Line-In: Programar linea de entrada
+
+  Schedule Permissions Heading: Planificar permisos
+  Schedule Permissions Add Button: Añadir permiso
+  Schedule Permissions Instructions: Doble click para modificar / eliminar.
+
+  Schedule For: Horario de:
+
+  List Mode: Secuencial
+  Grid Mode: Parrilla
+
+  Details Name: Nombre
+  Details Starts: Inicio
+  Details Ends: Fin
+  Details Item Type: Tipo de item
+  Details Playlist Type: Tipo de lista
+  Details Media Type: Tipo de media
+  Details Category: Categoría
+  Details Owner: Proprietario
+  Details DateTime: Fecha / Hora
+  Details Duration: Duración
+  Details Scheduled By: Previsto por
+  Details Scheduled For: Previsto para
+  Details Description: Descripción
+  Details Notes: Notas
+  Details Recurring: * Recurrente
+  Not Recurring: No recurrente
+  Since: desde
+
+  Previous Week: Anterior
+  Next Week: Siguiente
+
+  Sunday: Domingo
+  Monday: Lunes
+  Tueday: Martes
+  Wednesday: Miércoles
+  Thursday: Jueves
+  Friday: Viernes
+  Saturday: Sábado
+
+  January: Enero
+  February: Febrero
+  March: Marzo
+  April: Abril
+  May: Mayo
+  June: Junio
+  July: Julio
+  August: Agosto
+  September: Septiembre
+  October: Octubre
+  November: Noviembre
+  December: Diciembre
+
+  DST Spring Ahead: Horario de verano. Se adelanta una hora.
+  DST Fall Back: Horario de invierno. Se atrasa una hora.
+
+Schedule Edit
+
+  Add Show: Añadir show
+  Edit Show: Editar show
+  Move Show: Mover show
+
+  Move Instructions: Cambiar hora de inicio del primer show seleccionado para mover.
+
+  No Timeslots Available: No hay ningúna franja horaria disponible en la semana seleccionada.
+
+  Show Instructions: Para mostrar la franja horaria correcta, seleccione la semana deseada antes de planificar.
+  Show Heading: Planificar programación
+
+  Line-In: Linea de entrada
+
+  Item Name: Nombre del elemento
+
+  Permission Instructions: Indicar la información sobre esta franja.
+  Permission Heading: Planificar permisos
+
+  Permission For: Permisos para
+  Permission Name: Nombre
+
+  Timeslot: Franja horaria
+  Manual Input Option: Entrada manual
+
+  Scheduling Mode: Periodicidad
+  One-Time Option: Una vez
+  Daily Option: Todos los días
+  Weekly Option: Semanal
+  Monthly Option: Mensual
+  Every X Days Option: Cada X días
+  Every X Weeks Option: Cada X semanas
+  Every X Months Option: Cada X meses
+
+  Recurring Every: Periódico cada
+  Start Date: Fecha de inicio
+  Start Time: Hora de inicio
+  Gaps: Gestor de espacios libres en parrilla
+  Gap Explanation: Seleccione un espacio libre para programar un show en él. Elija insertar al comienzo, al final u ocupando todo el hueco (modifica la duración del show).
+  Gap Stick Up: Insertar al comienzo del espacio libre.
+  Gap Stick Down: Insertar al final del espacio libre.
+  Gap Expand: Rellenar espacio libre (modifica duración del show).
+
+  Duration: Duración
+  Duration Days: D
+  Duration Hours: H
+  Duration Minutes: M
+  Duration Seconds: S
+
+  Recurring Last Date: Ultima fecha periódica
+
+  Notes: Notas
+
+  Delete Show Confirm: ¿Eliminar este elemento?
+  Delete Permission Confirm: ¿Eliminar este permiso?
+
+  Show Not Found: Este elemento ya no existe.
+  Permission Not Found: Este permiso ya no existe.
+  Duration Not Valid: La duración no es válida.
+
+  Required Field Missing: Uno o más campos obligatorios no estan completos.
+  Device Not Found: Este reproductor ya no existe.
+
+  Item Invalid: El elemento que intenta planificar no es válido.
+  Item Does Not Exist: El elemento que intenta planificar no existe.
+  User Does Not Exist: El usuario seleccionado no existe.
+  Device Does Not Exist: El reproductor seleccionado no existe.
+  Media Must Be Approved: El media debe estar aprobado.
+  Media Must Not Be Archived: El media no puede estar archivado.
+  Scheduling Mode Not Valid: El modo de programación seleccionado no es válido.
+  Start Date/Time Not Valid: La fecha de inicio/fin no es válida.
+  Stop Date/Time Not Valid: La fecha de fin (ultima) no es válida y debe ser posterior a la fecha/hora de inicio.
+  Recurring Frequency Not Valid: La frecuencia periódica no es válida.
+
+  Recurring Show Too Long: La programación periódica no puede ser superior a 28 días.
+  Daily Show Too Long: Un programa planificado diariamente no puede ser superior a un día.
+  Weekly Show Too Long: Un programa planificado semanalmente no puede ser superior a una semana.
+  XDay Show Too Long: Un programa no puede ser superior a su frecuencia.
+  XWeek Show Too Long: Un programa no puede ser superior a su frecuencia.
+  Show Conflict: Este programa tiene conflictos con otro en la agenda.
+  Schedule Permission Required: No tiene permisos para planificar un elemento en la hora(s) seleccionadas.
+
+  Recurring Permission Too Long: Los permisos periódicos no pueden ser superiores a 28 días.
+  Daily Permission Too Long: Un permiso planificado diariamente no puede ser superior a un día.
+  Weekly Permission Too Long: Un permiso planificado semanalmente no puede ser superior a una semana.
+  XDay Permission Too Long: Un permiso planificado no puede ser superior a su frecuencia.
+  XWeek Permission Too Long: Un permiso planificado no puede ser superior a su frecuencia.
+  Permission Conflict: Este permiso tiene conflictos con otro en la agenda.

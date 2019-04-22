@@ -1,0 +1,24 @@
+﻿Common
+  Confirm: Confirmar
+  OpenBroadcaster Alert: Alerta de OpenBroadcaster
+  Okay: Ok
+  Save: Guardar
+  New: Nuevo
+  Edit: Editar
+  Delete: Eliminar
+  Restore: Restaurar
+  Cancel: Cancelar
+  Yes Delete: Si, eliminar
+  No Cancel: No, cancelar
+  Clear: Limpiar
+  Close: Cerrar
+  Details: Información
+  Download: Descargar
+  Search: Buscar
+  Add: Agregar
+  Yes: Si
+  No: No
+  Expand: Expandir
+  Collapse: Contraer
+  Enabled: Activado
+  Disabled: Desactivado

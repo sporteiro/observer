@@ -1,0 +1,13 @@
+﻿Media Categories
+
+  Music: Música
+  Ad or PSA: Anúncio o PSA
+  Station ID: ID de Estación
+  Shows - Segments: Espectáculos - Segmentos
+  Emergency Broadcast: Difusión de emergencia
+  News or Weather: Noticias o el tiempo
+  Lecture, Talk or Discussion: Conferencia, charla o debate
+  Show Promotion: Promoción de espectáculos
+  Entertainment (non-music): Entretenimiento (no musical)
+  Other: Otros
+  Shows - Complete: Espectáculos - Completo

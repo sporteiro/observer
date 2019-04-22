@@ -1,0 +1,32 @@
+﻿Admin Menu
+
+  Modules: Módulos
+  
+Modules Edit
+
+  Modules: Módulos
+  Modules Descrip: Módulos instalados / disponibles
+
+  Installed Heading: Módulos instalados
+  Available Heading: Módulos disponibles
+
+  No Modules Message: No hay módulos instalados
+  Following Modules Message: Los siguientes módulos estan instalados:
+  None Available Message: No hay módulos disponibles para instalar.
+  Following Available Message: Los siguientes módulos pueden ser instalados:
+
+  Loading modules...: Cargando módulos...
+
+  Delete Module Confirm: ¿Desea eliminar el módulo "%1"?
+  Delete Yes Button: Sí, desinstalar
+
+  Uninstall Button: Desinstalar
+  Install Button: Instalar
+
+  Name: Nombre
+  Description: Descripción
+
+  Install Module Confirm: ¿Desea instalar el módulo "%1"?
+  Install Yes Button: Sí, instalar
+
+  

@@ -1,0 +1,26 @@
+Keycuts
+
+  Keycuts: Atajos de teclado
+  Keycuts Instructions: Instrucciones
+
+  Cancel: Cancelar
+  Select Input: Seleccionar input
+  Save: Guardar
+  Hide Player: Ocultar reproductor
+  Toggle Tab: Cambiar pestaña del sidebar
+  Search: Ir al cuadro de búsqueda
+  Advanced Search: Búsqueda avanzada
+  Historic Search: Histórico de búsqueda
+  First Page: Ir a la primera página del sidebar
+  Previous Page: Ir a la página anterior del sidebar
+  Next Page: Ir a la página siguiente del sidebar
+  Last Page: Ir a la última página del sidebar
+  Add Item: Añadir Item
+  Edit Item: Editar Item
+  Delete Item: Eliminar Item
+  Toggle Detailed: Cambiar modo detallado del sidebar
+  Hide Sidebar: Ocultar Sidebar
+  Toggle Mode: Cambiar modo de parrilla
+  Previous Week: Semana anterior
+  Next Week: Semana siguiente
+  Current Week: Semana actual

@@ -1,0 +1,10 @@
+﻿Admin Menu
+
+  Client Settings: Configuración de cliente
+
+Client Settings
+
+  Heading: Configuración de cliente
+  Welcome Message: Mensaje de bienvenida
+  Message: Mensaje
+  Save Confirmation: Mensaje de bienvenida guardado.

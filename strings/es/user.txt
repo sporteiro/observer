@@ -1,0 +1,76 @@
+﻿Admin Menu
+  Permissions: Permisos
+  User Management: Gestión de usuarios
+
+Permissions
+  Heading: Permisos
+  New Group Button: Nuevo grupo
+
+Permissions Edit
+  Heading: Modificar los permisos del grupo
+  Name: Nombre del grupo
+  Delete Group Confirm: ¿Desea eliminar este grupo?
+  Group Name Required: El nombre de grupo es obligatorio.
+  Permission Invalid: Uno o mas permisos son inválidos.
+  Cannot Delete Admin: No puede editar o eliminar el grupo de administrador.
+
+User List
+  Heading: Gestión de usuarios
+  Add a User: Nuevo usuario
+  Display Name: Nombre
+  Email: Correo electrónico
+  Created: Creado
+  Last Access: Último acceso
+  Groups: Grupos
+
+User Edit
+  Heading: Usuario
+  Name: Nombre
+  Username: Nombre de usuario
+  Display Name: Nombre a mostrar
+  Email: Correo electrónico
+  Password: Contraseña
+  Password (confirm): Confirmar contraseña
+  Status: Estado
+  Groups: Grupos
+  Password Warning: Introduzca contraseña solo si desea cambiarla.
+  Delete User Confirm: ¿Desea eliminar este usuario?
+  Required Not Filled: Uno o más campos obligatorios estan vacios.
+  Invalid Email: El correo electrónico proporcionado no es válido.
+  Email In Use: El correo electrónico proporcionado ya está en uso.
+  Username In Use: El nombre de usuario seleccionado ya está en uso.
+  Password Mismatch: Las contraseñas no coinciden.
+  Password Short: La contraseña debe tener al menos 6 caracteres.
+
+Permissions List
+  administration: Administración
+  manage media settings: Administrar opciones de media
+  manage devices: Administrar dispositivos
+  manage groups and permissions: Administrar grupos y permisos
+  create, edit, and delete users: Crear, editar, y eliminar usuarios
+  manage client/interface settings: Administrar opciones de cliente / interfaz
+  install and uninstall modules: Instalar y desinstalar módulos
+  view log produced by logger module: Ver log generado por el módulo logger
+
+  Device Category: Reproductor
+
+  manage schedule timeslots: Administrar franjas programadas
+  create, edit, and delete emergency broadcasts: Crear, editar y eliminar difusiones prioritarias
+  view device playlogs: Ver log de reproducción de dispositivo
+
+  manage schedule timeslots: Administrar franjas programadas
+  create, edit, and delete emergency broadcasts: Crear, editar y eliminar difusiones prioritarias
+  view device playlogs: Ver log de reproducción de dispositivo
+
+  media: Media
+  create, edit, and delete own media: Crear, editar y eliminar media propia
+  approve own media: Aprobar media propia
+  create, edit, approve, and delete all media: Crear, editar, aprobar y eliminar todo el media
+  download all media: Descargar todo el media
+
+  playlists: Listas de reproducción
+  create, edit, and delete own playlists: Crear, editar y eliminar listas de reproducción propias
+  create, edit, and delete all playlists: Crear, editar y eliminar todas las listas de reproducción
+
+  user interface: Interfaz de usuario
+  enable advanced show scheduling: Habilitar mostrar programación avanzada

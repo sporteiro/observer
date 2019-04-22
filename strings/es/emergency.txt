@@ -1,0 +1,48 @@
+﻿Schedules Menu
+
+  Emergencies: Emisiones prioritarias
+
+Emergency
+
+  Heading: Emisiones prioritarias
+  Instructions: Arrastre un elemento media en la tabla inferior para planificar una emisión prioritaria. Haga doble click para editar.
+
+  No Broadcasts: No hay emisiones prioritarias planificadas para este reproductor.
+
+  Name: Nombre
+  Start: Inicio
+  Stop: Fin
+  Frequency: Frecuencia
+  Duration: Duración
+  Media: Media
+
+  Only Schedule One Item: Puede planificar solo un elemento a la vez.
+  Playlist Not Supported: Listas de reproducción para emisiones prioritarias no estan soportadas en este momento.
+  Not Found: Emisión prioritaria no encontrada.
+  Required Field Missing: Uno o más campos obligatorios no estan completos.
+  Item Does Not Exist: El elemento que intenta editar no existe aparentemente.
+  Device Does Not Exist: Este reproductor no existe aparentemente.
+  Media Invalid: Elemento media inválido.
+  Media Not Approved: Media debe estar aprobada.
+  Media Is Archived: Media no puede estar archivada.
+  Frequency Invalid: La frecuencia es inválida.
+  Duration Invalid: La duración es inválida.
+  Start DateTime Invalid: La fecha/hora de comienzo es inválida.
+  Stop DateTime Invalid: La fecha/hora de fin es inválida.
+  Stop Must Be After Start: La fecha/hora de fin debe ser posterior a la fecha/hora de comienzo.
+
+Emergency Edit
+
+  Heading: Emisiones prioritarias
+  Media Item: Elemento Media
+  Name: Nombre
+  Play Every: Reproducir cada
+  Seconds: segundos
+  Image Duration: Duración de imagen
+  Minutes: minutos
+  Start Date: Fecha de inicio
+  Start Time: Hora de inicio
+  Stop Date: Fecha de fin
+  Stop Time: Hora de fin
+
+  Delete Emergency Confirm: ¿Desea eliminar la emision prioritaria?
